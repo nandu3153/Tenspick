@@ -1,4 +1,0 @@
-echo tenspick.shop > CNAME
-git add CNAME
-git commit -m "Add custom domain"
-git push
